@@ -1,0 +1,56 @@
+ Coffee Shop Sales Analysis**  
+
+Objective:
+
+The primary goal of this project is to analyze retail sales data from a coffee shop to derive actionable insights that can improve operational efficiency, 
+	enhance customer satisfaction, and boost overall business performance.
+
+Key Insights:
+
+1. **Peak Hours:**  
+   - The busiest time for the coffee shop is between **8 AM to 10 AM**, aligning with the morning rush when most customers seek coffee and breakfast.  
+
+2. **Top-Selling Products:**  
+   - **Barista Espresso** is the top-performing product, generating a revenue of **₹91,406.20**, highlighting its popularity among customers.  
+
+3. **Sales Categories:**  
+   - Coffee dominates sales, contributing **39%** of total revenue. Other significant contributors include bakery items, tea, and packaged chocolates.  
+
+4. **Footfall by Location:**  
+   - The **Hell’s Kitchen** store leads in sales, while the Astoria location sees slightly higher customer footfall, 
+indicating an opportunity for marketing or resource optimization.  
+
+5. **Weekday Trends:**  
+   - **Fridays** witness the highest footfall, making it a crucial day for promotions. Sundays, on the other hand, have the lowest customer traffic.  
+
+6. **Order Size Distribution:**  
+   - Regular-sized orders account for 30% of sales, suggesting a preference for medium portion sizes among customers.  
+
+
+**Overall Sales Performance**  
+- **Total Sales:** ₹6,98,812.33  
+- **Total Footfall:** 1,49,116 customers  
+- **Average Bill per Person:** ₹4.69  
+- **Average Orders per Person:** 1.44  
+
+**Category Distribution**  
+- Coffee and bakery items dominate the revenue mix, while tea and packaged chocolates contribute significantly, providing opportunities for product diversification.  
+
+ **Location Insights**  
+- **Astoria** and **Hell’s Kitchen** locations receive over **50,000 footfalls each**, while **Lower Manhattan** sees slightly fewer visitors.  
+- These insights can guide resource allocation and store-specific marketing strategies.  
+
+**Skills Demonstrated**  
+
+1. **Data Cleaning & Preparation:**  
+   - Organized raw, unstructured data into a cleaned format suitable for analysis.  
+
+2. **Visualization & Design:**  
+   - Built intuitive, visually appealing dashboards and charts to simplify decision-making.  
+
+3. **Business Analysis:**  
+   - Identified trends, patterns, and actionable insights to help optimize business operations and improve customer satisfaction.  
+
+**Conclusion**  
+This analysis highlights critical areas like peak hours, top products, and customer preferences that the coffee shop can leverage.
+ Implementing targeted marketing strategies, optimizing resource allocation, and introducing new offerings aligned with these insights can significantly enhance business performance.
